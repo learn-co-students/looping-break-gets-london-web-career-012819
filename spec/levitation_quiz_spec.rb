@@ -8,3 +8,4 @@ describe "#levitation_quiz" do
 	end
 
 end
+
